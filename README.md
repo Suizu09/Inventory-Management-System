@@ -24,8 +24,7 @@ Hệ thống quản lý nhập xuất hàng hóa là một chương trình đư�
 Warehouse-Inventory-Management-System/
 ├── main.c
 ├── README.md
-└── .vscode/
-    └── tasks.json
+└── .dev C/
 ```
 
 ## 5. Yêu cầu hệ thống
