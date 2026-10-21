@@ -73,19 +73,17 @@ Mỗi sản phẩm có thể bao gồm các thông tin:
 - Số lượng.
 - Đơn giá.
 
-## 9. Mục tiêu dự án
-- Vận dụng kiến thức cơ bản về lập trình C.
-- Thực hành sử dụng `struct`, mảng, hàm và vòng lặp.
-- Xây dựng các chức năng CRUD: thêm, xem, sửa và xóa dữ liệu.
-- Làm quen với quy trình quản lý nhập xuất hàng hóa.
-
-## 10. Hướng phát triển
+## 9. Hướng phát triển
 - Lưu dữ liệu vào tệp để sử dụng lại sau khi tắt chương trình.
 - Bổ sung chức năng tìm kiếm sản phẩm.
 - Sắp xếp danh sách sản phẩm.
 - Kiểm tra dữ liệu đầu vào và xử lý lỗi.
 - Thống kê số lượng hàng tồn kho và lịch sử nhập xuất.
 
-## 11. Tác giả
+## 10. Tác giả
 - Bùi Đăng Khôi (NHÓM TRƯỞNG) - Quản lí toàn bộ dự án
 - Nguyễn Tuấn - Hoàn Thành giai đoạn then chốt
+
+## 11. Demo
+<img width="426" height="296" alt="image" src="https://github.com/user-attachments/assets/073fc704-ddef-41ab-b028-c5ecefe95d2b" />
+
