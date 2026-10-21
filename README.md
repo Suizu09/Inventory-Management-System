@@ -81,8 +81,8 @@ Mỗi sản phẩm có thể bao gồm các thông tin:
 - Thống kê số lượng hàng tồn kho và lịch sử nhập xuất.
 
 ## 10. Tác giả
-- Bùi Đăng Khôi (NHÓM TRƯỞNG) - Quản lí toàn bộ dự án
-- Nguyễn Tuấn - Hoàn Thành giai đoạn then chốt
+- Bùi Đăng Khôi (NHÓM TRƯỞNG) - Code - Sữa Code - Hoàn Thiện
+- Nguyễn Tuấn - Code - Sữa Code - Textcode
 
 ## 11. Demo
 <img width="426" height="296" alt="image" src="https://github.com/user-attachments/assets/073fc704-ddef-41ab-b028-c5ecefe95d2b" />
